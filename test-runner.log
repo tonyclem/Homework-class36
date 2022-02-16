@@ -1,0 +1,108 @@
+2022-02-16 10:19:19 info: ----------------------------------------------
+2022-02-16 10:19:19 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:19:19 info: ----------------------------------------------
+2022-02-16 10:19:22 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are Courageous, HackYourFuture!
+  Received: Your are Courageous, HackYourFuture!
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JAVAScrip/Homework/test-runner/CustomReporter.js"
+2022-02-16 10:19:24 error: *** ESLint Report ***
+
+ex1-giveCompliment.js
+  35:7  warning  'randomly' is never reassigned. Use 'const' instead  no-autofix/prefer-const
+
+✖ 1 problem (0 errors, 1 warning)
+
+
+2022-02-16 10:19:32 info: Disclaimer turned off
+2022-02-16 10:20:49 info: ----------------------------------------------
+2022-02-16 10:20:49 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:20:49 info: ----------------------------------------------
+2022-02-16 10:20:52 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are Courageous, HackYourFuture!
+  Received: Your are Courageous, HackYourFuture!
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JAVAScrip/Homework/test-runner/CustomReporter.js"
+2022-02-16 10:21:52 info: ----------------------------------------------
+2022-02-16 10:21:52 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:21:52 info: ----------------------------------------------
+2022-02-16 10:21:54 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are Courageous, HackYourFuture!
+  Received: Your are Courageous, HackYourFuture!
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JAVAScrip/Homework/test-runner/CustomReporter.js"
+2022-02-16 10:23:07 info: ----------------------------------------------
+2022-02-16 10:23:07 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:23:07 info: ----------------------------------------------
+2022-02-16 10:23:10 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are Courageous, HackYourFuture!
+  Received: Your are Courageous, HackYourFuture!
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JAVAScrip/Homework/test-runner/CustomReporter.js"
+2022-02-16 10:30:43 info: ----------------------------------------------
+2022-02-16 10:30:43 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:30:43 info: ----------------------------------------------
+2022-02-16 10:30:46 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are Courageous, HackYourFuture!
+  Received: Your are Courageous, HackYourFuture!
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JAVAScrip/Homework/test-runner/CustomReporter.js"
+2022-02-16 10:31:14 info: ----------------------------------------
+2022-02-16 10:31:14 info: >>> Running Unit Test `ex2-dogYears` <<<
+2022-02-16 10:31:14 info: ----------------------------------------
+2022-02-16 10:31:16 info: All unit tests passed.
+2022-02-16 10:31:19 info: All steps were completed successfully
+2022-02-16 10:31:45 info: ----------------------------------------------
+2022-02-16 10:31:45 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:31:45 info: ----------------------------------------------
+2022-02-16 10:31:47 error: *** Unit Test Error Report ***
+
+✕ giveCompliment should give a random compliment: You are `compliment`, `name`!
+  Expected: You are Courageous, HackYourFuture!
+  Received: Your are Courageous, HackYourFuture!
+
+
+Command failed: npx jest ex1-giveCompliment.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JAVAScrip/Homework/test-runner/CustomReporter.js"
+2022-02-16 10:32:25 info: ----------------------------------------------
+2022-02-16 10:32:25 info: >>> Running Unit Test `ex1-giveCompliment` <<<
+2022-02-16 10:32:25 info: ----------------------------------------------
+2022-02-16 10:32:27 info: All unit tests passed.
+2022-02-16 10:32:30 info: All steps were completed successfully
+2022-02-16 11:08:32 info: -------------------------------------------
+2022-02-16 11:08:32 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2022-02-16 11:08:32 info: -------------------------------------------
+2022-02-16 11:08:35 info: All unit tests passed.
+2022-02-16 11:08:38 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:51:36 - Unknown word (Ahana)
+ex3-tellFortune.js:51:60 - Unknown word (Pari)
+ex3-tellFortune.js:53:23 - Unknown word (Roermond)
+ex3-tellFortune.js:53:72 - Unknown word (Weert)
+ex3-tellFortune.js:58:10 - Unknown word (Desinger)
+
+2022-02-16 11:09:59 info: -------------------------------------------
+2022-02-16 11:09:59 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2022-02-16 11:09:59 info: -------------------------------------------
+2022-02-16 11:10:01 info: All unit tests passed.
+2022-02-16 11:10:04 error: *** Spell Checker Report ***
+
+ex3-tellFortune.js:51:36 - Unknown word (Ahana)
+ex3-tellFortune.js:51:60 - Unknown word (Pari)
+ex3-tellFortune.js:53:23 - Unknown word (Roermond)
+ex3-tellFortune.js:53:72 - Unknown word (Weert)
+

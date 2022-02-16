@@ -1,0 +1,7 @@
+
+*** Spell Checker Report ***
+
+ex3-tellFortune.js:51:36 - Unknown word (Ahana)
+ex3-tellFortune.js:51:60 - Unknown word (Pari)
+ex3-tellFortune.js:53:23 - Unknown word (Roermond)
+ex3-tellFortune.js:53:72 - Unknown word (Weert)
