@@ -5441,3 +5441,104 @@ Ran all test suites matching /ex2-mondaysWorth.test.js/i.
 2022-02-22 05:13:05 info: -------------------------------------------------
 2022-02-22 05:13:07 info: All unit tests passed.
 2022-02-22 05:13:10 info: All steps were completed successfully
+2022-02-22 10:48:28 info: --------------------------------------
+2022-02-22 10:48:28 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 10:48:28 info: --------------------------------------
+2022-02-22 10:48:32 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 10:49:37 info: --------------------------------------
+2022-02-22 10:49:37 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 10:49:37 info: --------------------------------------
+2022-02-22 10:49:40 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 10:50:49 info: --------------------------------------
+2022-02-22 10:50:49 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 10:50:49 info: --------------------------------------
+2022-02-22 10:50:51 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 10:54:18 info: --------------------------------------
+2022-02-22 10:54:18 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 10:54:18 info: --------------------------------------
+2022-02-22 10:54:20 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 10:56:09 info: --------------------------------------
+2022-02-22 10:56:09 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 10:56:09 info: --------------------------------------
+2022-02-22 10:56:11 error: *** Unit Test Error Report ***
+
+✕ wallet q1: At line 26, which variables are in the scope marked Closure?
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 11:02:57 info: --------------------------------------
+2022-02-22 11:02:57 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 11:02:57 info: --------------------------------------
+2022-02-22 11:02:59 error: *** Unit Test Error Report ***
+
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q3: What tooltip appears when hovering over the third debug button?
+✕ wallet q4: What is displayed in the console?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 11:03:48 info: --------------------------------------
+2022-02-22 11:03:48 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 11:03:48 info: --------------------------------------
+2022-02-22 11:03:50 error: *** Unit Test Error Report ***
+
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+✕ wallet q5: The owner of the wallet with insufficient funds is?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 11:04:09 info: --------------------------------------
+2022-02-22 11:04:09 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 11:04:09 info: --------------------------------------
+2022-02-22 11:04:11 error: *** Unit Test Error Report ***
+
+✕ wallet q2: What is in the Call Stack, from top to bottom?
+
+
+Command failed: npx jest ex5-wallet.test.js --colors --reporters="/Users/clementanthony/Desktop/SchoolFolders/HYF-Module-JavaScript/Homework/test-runner/CustomReporter.js"
+2022-02-22 11:04:32 info: --------------------------------------
+2022-02-22 11:04:32 info: >>> Running Unit Test `ex5-wallet` <<<
+2022-02-22 11:04:32 info: --------------------------------------
+2022-02-22 11:04:34 info: All unit tests passed.
+2022-02-22 11:04:37 info: All steps were completed successfully
