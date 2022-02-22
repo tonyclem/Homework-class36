@@ -33,7 +33,8 @@ const hourlyRate = 25;
 function computeEarnings(mondayTasksArr, hourlyRateVar) {
   let total = 0;
   mondayTasksArr.forEach((tasks) => (total += tasks.duration));
-  return `€${(total / 60) * hourlyRateVar}0`;
+  const sum = (total / 60) * hourlyRateVar;
+  return `€${sum.toFixed(2)}`;
 }
 
 computeEarnings(mondayTasks, hourlyRate);

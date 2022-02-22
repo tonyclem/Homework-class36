@@ -1,0 +1,5 @@
+
+*** Spell Checker Report ***
+
+ex4-observable/ex4-observable.js:23:28 - Unknown word (subscrib)
+ex4-observable/ex4-observable.js:23:41 - Unknown word (subscrib)
