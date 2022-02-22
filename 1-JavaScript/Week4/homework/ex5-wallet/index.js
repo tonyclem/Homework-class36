@@ -46,7 +46,6 @@ function createWallet(name, cash = 0) {
   };
 }
 
-console.log('find Undefined:', createWallet('Joe', 10));
 const walletJack = createWallet('Jack', 100);
 const walletJoe = createWallet('Joe', 10);
 const walletJane = createWallet('Jane', 20);
