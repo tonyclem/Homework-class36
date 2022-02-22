@@ -22,9 +22,9 @@ function createWallet(name, cash = 0) {
 
   function transferInto(wallet, amount) {
     console.log(
-      `Transferring ${eurosFormatter.format(amount)} from ${name} to ${
-        wallet.name
-      }`
+      `Transferring ${eurosFormatter.format(
+        amount
+      )} from ${name} to ${wallet.getName()}`
     );
 
     const withdrawnAmount = withdraw(amount);
@@ -85,7 +85,7 @@ const quiz = {
       b: 'anonymous, transferInto', 
       c: 'transferInto, anonymous' 
     },
-    answer: '(c): anonymous, transferInfo',
+    answer: '(b): anonymous, transferInfo',
   },
   q3: {
     question: 'What tooltip appears when hovering over the third debug button?',
@@ -103,7 +103,7 @@ const quiz = {
       b: 'Transferring € 50,00 from Jack to undefined', 
       c: 'Transferring € 50,00 from Jack to Jane' 
     },
-    answer: '(b): Transferring € 50,00 from Jack to undefined',
+    answer: '(a): Transferring € 50,00 from Jack to Joe',
   },
   q5: {
     question: 'The owner of the wallet with insufficient funds is:',
