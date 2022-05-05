@@ -21,19 +21,19 @@ instead!
 3. Complete the unit test functions and verify that all is working as expected.
 -----------------------------------------------------------------------------*/
 const cartForParty = {
-  water: '1.3',
-  drink: '1.4',
-  chips: '2.4',
-  apple: '1.75',
-  orange: '0.99',
+  water: 1.3,
+  drink: 1.4,
+  chips: 2.4,
+  apple: 1.75,
+  orange: 0.99,
 };
 
 function calculateTotalPrice(myObject) {
-  let total = 0;
-  for (const [key, obj] of Object.entries(myObject)) {
-    total += parseFloat(`${obj}`);
+  let totalPrice = 0;
+  for (let item in myObject) {
+    totalPrice += myObject[item];
   }
-  return `Total: €${total}`;
+  return totalPrice;
 }
 
 // ! Test functions (plain vanilla JavaScript)

@@ -37,13 +37,13 @@ function giveCompliment(myName) {
 }
 
 function main() {
-  const myName = 'HackYourFuture';
+  const myName = 'clement';
 
   console.log(giveCompliment(myName));
   console.log(giveCompliment(myName));
   console.log(giveCompliment(myName));
 
-  const yourName = 'HackYourFuture';
+  const yourName = 'Sunday';
 
   console.log(giveCompliment(yourName));
   console.log(giveCompliment(yourName));
